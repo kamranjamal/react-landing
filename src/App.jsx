@@ -6,6 +6,7 @@ import HeroSetion from './compoenents/HeroSetion'
 import Navbar from './compoenents/Navbar'
 import { FaFileContract } from "react-icons/fa";
 import { FcGoodDecision } from "react-icons/fc";
+import Pravicy from './compoenents/Pravicy';
 
 function App() {
   const data=[
@@ -41,6 +42,7 @@ function App() {
       }
       
       </div>
+      <Pravicy/>
     
     </main>
   )
