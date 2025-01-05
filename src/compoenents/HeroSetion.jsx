@@ -3,7 +3,7 @@ import React from "react";
 function HeroSetion() {
   return (
     <div className="w-full  p-10 flex items-center gap-3 mt-16 flex-col">
-      <h2 className="text-7xl font-bold">Wellcome to Simple Landing Page</h2>
+      <h2 className="text-6xl font-bold">Wellcome to Simple Landing Page</h2>
       <p className="text-center text-gray-400">
         Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum
         dolor sit amet consectetur adipisicing elit. Nostrum excepturi tempora,
