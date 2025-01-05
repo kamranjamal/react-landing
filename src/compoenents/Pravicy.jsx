@@ -17,7 +17,7 @@ function Pravicy() {
       <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <h2 className="text-2xl font-semibold my-2">Contact</h2>
       <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-      <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <p className="text-sm mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
   );
 }

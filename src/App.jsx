@@ -7,6 +7,7 @@ import Navbar from './compoenents/Navbar'
 import { FaFileContract } from "react-icons/fa";
 import { FcGoodDecision } from "react-icons/fc";
 import Pravicy from './compoenents/Pravicy';
+import Footer from './compoenents/Footer';
 
 function App() {
   const data=[
@@ -43,6 +44,9 @@ function App() {
       
       </div>
       <Pravicy/>
+      <div className='mt-20'>
+      <Footer/>
+      </div>
     
     </main>
   )
